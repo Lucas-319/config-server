@@ -1,6 +1,6 @@
-# Config Server (submódulo)
+# Config Server
 
-Este diretório contém os arquivos de configuração externa usados pelos serviços do projeto [Microservices Demo](https://github.com/Lucas-319/microservices-demo
+Este repositório contém os arquivos de configuração externa usados pelos serviços do projeto [Microservices Demo](https://github.com/Lucas-319/microservices-demo
 ).
 
 ## O que é
